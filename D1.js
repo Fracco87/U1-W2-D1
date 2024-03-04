@@ -13,8 +13,8 @@ REGOLE
 
 /*
   Alcuni tra i principali datatype in JavaScript sono  number(che indica un tipo di variabile di tipo numerico e che dunque accetta valori dello stesso tipo),
-String(che indica un tipo di variabile di tipo alfaNumerico e che prevede la presenza di apici per racchiudere il nome della variabile), null
-(che indica esistenza di variabile con valore 0 o con stringa vuota  ), undifined(che indica l'esistenza di una variabile lasciata addirittura senza valore o stringhe)
+String(che indica un tipo di variabile di tipo alfaNumerico e che prevede la presenza di apici per racchiudere il nome della variabile), boolean(che indica un tipo di variabile condizionale
+  e che prevede la restituzione di un risultato che può essere true o false)
 */
 
 /* ESERCIZIO 2
