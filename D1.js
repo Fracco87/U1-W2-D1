@@ -61,8 +61,8 @@ let sottrazione = numero - x;
 
 let name1 = "john";
 let name2 = "John";
-if (name1 !== name2) {
-  console.log(name1)
+console.log{
+  (name1 !== name2);
 }
-if (name2.toLowerCase() === name1.toLowerCase());
-console.log(name1);
+console.log {(name2.toLowerCase() === name1.toLowerCase()) }
+
